@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Cush Jabez P. Nuñeza — Internship Portfolio
 
 A responsive, matte black portfolio built with React, Vite, JavaScript, and Tailwind CSS v4 (available in the project setup). Content lives in small data files so you can update it without hunting through page markup. The contact form currently validates locally and does not send messages until you configure a service.
@@ -73,3 +74,6 @@ src/
   main.jsx                 React application entry point
 index.html                 SEO metadata and app mount point
 ```
+=======
+# Portfolio
+>>>>>>> f7441bb7081621e82efe2395642ad9dfe35e575a
