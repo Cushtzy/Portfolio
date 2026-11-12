@@ -1,0 +1,2 @@
+﻿// Add leadership and internship entries here. Do not invent dates.
+export const experience = [{ position: 'Technical Officer', organization: 'Bukidnon State University Student Body Organization', duration: '', responsibilities: ['Assisted in live technical operations during university programs and events.', 'Operated OBS for live broadcasts and event streaming.', 'Managed sound systems, projectors, laptops, and other technical equipment.', 'Provided technical assistance to support smooth event execution.'], skills: ['OBS', 'Event technology', 'Technical support'] }]
