@@ -16,7 +16,7 @@ My current focus is strengthening my technical knowledge, improving my problem-s
 	// Add your real email and GitHub/LinkedIn profile URLs here.
 	email: "nunezacushjabez@gmail.com",
 	github: "",
-	linkedin: "www.linkedin.com/in/cush-jabez-nuñeza-156780408",
+	linkedin: "https://www.linkedin.com/in/cush-jabez-nu%C3%B1eza-156780408/",
 	location: "Malaybalay City, Bukidnon, Philippines",
 	// RESUME LOCATION: put your actual PDF in public/documents/.
 	// UPDATE THIS PATH if you use a different resume filename.
